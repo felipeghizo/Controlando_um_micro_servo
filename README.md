@@ -7,7 +7,6 @@
 
 - 1  Arduíno UNO R3
 - 1  Um cabo de conexão USB
-- 3  Resistor de 220 Ω ohms
 - 1  Micro Servo TowerPro 9g SG90 
 - 3  Jumpers (macho-macho)
 
